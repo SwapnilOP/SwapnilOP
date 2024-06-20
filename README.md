@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Swapnil
 - 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning java and DSA
+- 🌱 I’m currently learning DSA using c++
 
 
 <!---
